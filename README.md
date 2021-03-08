@@ -3,6 +3,9 @@
 # Script for running the Project
 yarn start
 
+# Home Page route for managing campaigns
+/bs-campaigns
+
 ## Component Structure
   1. Stateless ---- Dumb reusable components
   2. Stateful ---- Containers made up of several stateless components with states and access to redux state (if used in the project)

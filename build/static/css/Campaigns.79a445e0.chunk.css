@@ -1,0 +1,2 @@
+.tabs-root{color:#a9a9a9;font-size:14px;border-bottom:1px solid #a9a9a9;display:-webkit-flex;display:flex}.tabs-root .tab-item{cursor:pointer;padding:10px 20px}.tabs-root .tab-item:before{content:"";position:absolute;left:0;bottom:0;height:3px;width:0;background-color:green;transition:all .3s}.tabs-root .tab-item-active{color:green;position:relative}.tabs-root .tab-item-active:before{content:"";position:absolute;left:0;bottom:0;height:3px;width:100%;background-color:green;transition:all .3s}
+/*# sourceMappingURL=Campaigns.79a445e0.chunk.css.map */
