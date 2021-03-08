@@ -1,0 +1,12 @@
+.header-root {
+  position: sticky;
+  top: 0;
+
+  height: 50px;
+  background-color: #1f2740;
+  padding-left: 100px;
+}
+
+.header-root > .logo {
+  height: 100%;
+}
